@@ -1,4 +1,4 @@
-# Guided Project_ Exploring Hacker News Posts
+# Guided Project - Exploring Hacker News Posts
 
 A quick summary of what we accomplished in this guided project:
 
